@@ -11,7 +11,7 @@ i stream on Twitch, make videos on YouTube, and spend the rest of my time buildi
 - to be added.
 ---
  
-### stack i work with
+### stuff i work with
  
 `Unity` `C#` `Python` `TypeScript` `Next.js` `PowerShell`  
 `Docker` `Proxmox` `nginx` `Prometheus` `Grafana`  
