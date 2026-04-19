@@ -1,16 +1,36 @@
-## Hi there 👋
+# hey, i'm whitehat 👋
+ 
+content creator, IT professional, and solo dev based in Brisbane.
+ 
+i stream on Twitch, make videos on YouTube, and spend the rest of my time building things that probably shouldn't exist.
+ 
+---
+ 
+### what i'm working on
+ 
+- to be added.
+---
+ 
+### stack i work with
+ 
+`Unity` `C#` `Python` `TypeScript` `Next.js` `PowerShell`  
+`Docker` `Proxmox` `nginx` `Prometheus` `Grafana`  
+`M365` `Intune` `Entra ID`
+ 
+---
+ 
+### stats
 
-<!--
-**XWhite-Hat/XWhite-Hat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://xwhitehat.dev/api/github-stats/card.svg" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://xwhitehat.dev/api/github-stats/languages.svg" alt="Top Languages" />
+  <img src="https://xwhitehat.dev/api/github-stats/commits.svg" alt="Recent Commits" />
+</p>
+---
+ 
+### find me
+ 
+- 🌐 [xwhitehat.dev](https://xwhitehat.dev)
+- 🎥 Twitch / YouTube — **XWhiteHat**
