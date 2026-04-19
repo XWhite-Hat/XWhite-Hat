@@ -21,6 +21,7 @@ i stream on Twitch, make videos on YouTube, and spend the rest of my time buildi
  
 ### stats
 
+working out of private repo's mostly, so here's some aggregated stats.
 <p align="center">
   <img src="https://xwhitehat.dev/api/github-stats/card.svg" alt="GitHub Stats" />
 </p>
