@@ -10,7 +10,8 @@ i stream on Twitch, make videos on YouTube, and spend the rest of my time buildi
  
 * [xwhitehat.dev](https://xwhitehat.dev) - personal site project
 * TrackerHat - discord bot for aggregating/querying game state data
-  - Finishing up Warframe querier, moving onto Helldivers 2 next 
+  - Warframe querier/aggregator active
+  - Helldivers 2 querier/aggregator next
 ---
  
 ### stuff i work with
