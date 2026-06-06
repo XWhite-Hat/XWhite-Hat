@@ -2,7 +2,7 @@
  
 content creator, IT professional, and solo dev based in Australia.
  
-i stream on Twitch, make videos on YouTube, and spend the rest of my time building things that probably shouldn't exist.
+i stream on Twitch and occastionally make videos on YouTube.
  
 ---
  
