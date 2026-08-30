@@ -1,8 +1,8 @@
-# hey, i'm whitehat 👋
+# hello, im whitehat
  
 content creator, IT professional, and solo dev based in Australia.
  
-i stream on Twitch and occastionally make videos on YouTube.
+i ~~used to~~ stream on Twitch.
  
 ---
  
