@@ -9,7 +9,7 @@ i ~~used to~~ stream on Twitch.
 ### what i'm working on
  
 * [xwhitehat.dev](https://xwhitehat.dev) - personal site project
-* * [schedulehat.xwhitehat.dev](https://schedulehat.xwhitehat.dev) - streaming/life planner for twitch streamers with Twitch, Discord and X integrations for automation
+* * [schedulehat.xwhitehat.dev](https://schedulehat.xwhitehat.dev) - streaming/life planner for streamers on Twitch, Kick and YouTube - integrations with other services for automation
 * WheelHat - customizable spinners with twitch and streaming application plugins for automated spins and actions
 * MusicHat - music visualizer with mod manageable music queue application for streaming
 * TrackerHat - discord bot for aggregating/querying game state data
